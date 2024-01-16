@@ -1,6 +1,5 @@
 /***********************************
  * Program 02
- * Written by Mark M Bowman
  ***********************************/ 
 
 #include <iostream>
@@ -13,7 +12,7 @@ using namespace std;
 
 /***********************************
  * Main
- * Test function - DO NOT CHANGE
+ * Test function 
  ***********************************/ 
 void main()
 { int i;
