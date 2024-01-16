@@ -1,0 +1,5 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  People.cpp
+C:\Users\Allie\Downloads\Program2\People.cpp(15,6): warning C4101: 'i': unreferenced local variable
+C:\Users\Allie\Downloads\Program2\People.cpp(38,9): warning C4101: 'n': unreferenced local variable
+  Program 02.vcxproj -> C:\Users\Allie\Downloads\Program2\Debug\Program 02.exe
